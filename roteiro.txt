@@ -1,0 +1,6 @@
+# listar tipos diferentes de clientes com base nos serviços oferecidos
+# relacionar total pago com modelo de contrato
+# modelo de contrato com churn
+# dependentes e casados com quantidade de serviços
+# tempo como cliente e pagamento mensal
+# tempo / pagamento / churn
